@@ -1,5 +1,5 @@
-from selenium import webdriver
 import os, sys, csv, time
+from selenium import webdriver
 
 #################################################################################################################################
 # Código para fazer a consulta dos filmes, encontrados dentro do arquivo .csv, e obter o id, no sistema do imdb, utilizando 	#
